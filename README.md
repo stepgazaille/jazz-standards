@@ -1,2 +1,2 @@
 # jazz-standards
-Jazz standards transcription in Finale 2012 format. Inclues lyrics
+Jazz standards transcriptionw in Finale 2012 format.
